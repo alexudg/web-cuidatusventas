@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/web-cuidatusventas/static/css/main.e1ea6c7d.chunk.css",
-    "main.js": "/web-cuidatusventas/static/js/main.d213ba17.chunk.js",
-    "main.js.map": "/web-cuidatusventas/static/js/main.d213ba17.chunk.js.map",
+    "main.js": "/web-cuidatusventas/static/js/main.a3579005.chunk.js",
+    "main.js.map": "/web-cuidatusventas/static/js/main.a3579005.chunk.js.map",
     "runtime-main.js": "/web-cuidatusventas/static/js/runtime-main.2fb729a4.js",
     "runtime-main.js.map": "/web-cuidatusventas/static/js/runtime-main.2fb729a4.js.map",
     "static/js/2.60e11646.chunk.js": "/web-cuidatusventas/static/js/2.60e11646.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2fb729a4.js",
     "static/js/2.60e11646.chunk.js",
     "static/css/main.e1ea6c7d.chunk.css",
-    "static/js/main.d213ba17.chunk.js"
+    "static/js/main.a3579005.chunk.js"
   ]
 }
