@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1ea6c7d.chunk.css",
-    "main.js": "/static/js/main.820529d2.chunk.js",
-    "main.js.map": "/static/js/main.820529d2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f905b7a9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f905b7a9.js.map",
-    "static/js/2.41f173e9.chunk.js": "/static/js/2.41f173e9.chunk.js",
-    "static/js/2.41f173e9.chunk.js.map": "/static/js/2.41f173e9.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e1ea6c7d.chunk.css.map": "/static/css/main.e1ea6c7d.chunk.css.map",
-    "static/js/2.41f173e9.chunk.js.LICENSE.txt": "/static/js/2.41f173e9.chunk.js.LICENSE.txt"
+    "main.css": "/web-cuidatusventas/static/css/main.e1ea6c7d.chunk.css",
+    "main.js": "/web-cuidatusventas/static/js/main.f2b4811c.chunk.js",
+    "main.js.map": "/web-cuidatusventas/static/js/main.f2b4811c.chunk.js.map",
+    "runtime-main.js": "/web-cuidatusventas/static/js/runtime-main.52074c6a.js",
+    "runtime-main.js.map": "/web-cuidatusventas/static/js/runtime-main.52074c6a.js.map",
+    "static/js/2.41f173e9.chunk.js": "/web-cuidatusventas/static/js/2.41f173e9.chunk.js",
+    "static/js/2.41f173e9.chunk.js.map": "/web-cuidatusventas/static/js/2.41f173e9.chunk.js.map",
+    "index.html": "/web-cuidatusventas/index.html",
+    "static/css/main.e1ea6c7d.chunk.css.map": "/web-cuidatusventas/static/css/main.e1ea6c7d.chunk.css.map",
+    "static/js/2.41f173e9.chunk.js.LICENSE.txt": "/web-cuidatusventas/static/js/2.41f173e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f905b7a9.js",
+    "static/js/runtime-main.52074c6a.js",
     "static/js/2.41f173e9.chunk.js",
     "static/css/main.e1ea6c7d.chunk.css",
-    "static/js/main.820529d2.chunk.js"
+    "static/js/main.f2b4811c.chunk.js"
   ]
 }
